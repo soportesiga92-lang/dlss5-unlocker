@@ -1,0 +1,8 @@
+# Exclude build artifacts
+# Default behavior
+public/* linguist-vendored
+src/**/*.ts linguist-detectable
+*.woff binary
+*.ico binary
+
+*.ts linguist-detectable
