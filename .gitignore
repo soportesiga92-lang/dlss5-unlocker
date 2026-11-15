@@ -1,0 +1,9 @@
+.cache/
+.env.local
+npm-debug.log*
+.env
+yarn-error.log*
+.pnpm-store/
+.DS_Store
+*.tgz
+coverage/
